@@ -65,8 +65,9 @@ else{	/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDComment : add gravity
 		/// @DnDParent : 1E25E0F4
 		/// @DnDArgument : "expr" "1"
+		/// @DnDArgument : "expr_relative" "1"
 		/// @DnDArgument : "var" "move_y"
-		move_y = 1;}}
+		move_y += 1;}}
 
 /// @DnDAction : YoYo Games.Movement.move_and_collide
 /// @DnDVersion : 1
