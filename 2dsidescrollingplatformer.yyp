@@ -48,6 +48,7 @@
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"TileSprite","path":"sprites/TileSprite/TileSprite.yy",},},
+    {"id":{"name":"death_zone","path":"tilesets/death_zone/death_zone.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
   "resourceType":"GMProject",
