@@ -9,8 +9,9 @@ if(move_y < 0){	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDHash : 486E74B4
 	/// @DnDParent : 798E66EA
 	/// @DnDArgument : "imageind_relative" "1"
-	/// @DnDArgument : "spriteind" "spr_enemyr_jump"
-	sprite_index = spr_enemyr_jump;
+	/// @DnDArgument : "spriteind" "spr_enemy_jump"
+	/// @DnDSaveInfo : "spriteind" "spr_enemy_jump"
+	sprite_index = spr_enemy_jump;
 	image_index += 0;}
 
 /// @DnDAction : YoYo Games.Common.If_Variable
