@@ -42,6 +42,10 @@
     {"id":{"name":"obj_jump_powerup","path":"objects/obj_jump_powerup/obj_jump_powerup.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"obj_astronaut_idle","path":"sprites/obj_astronaut_idle/obj_astronaut_idle.yy",},},
+    {"id":{"name":"spr_astronaut_idle","path":"sprites/spr_astronaut_idle/spr_astronaut_idle.yy",},},
+    {"id":{"name":"spr_astronaut_walk","path":"sprites/spr_astronaut_walk/spr_astronaut_walk.yy",},},
     {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},},
     {"id":{"name":"spr_enemy_idle","path":"sprites/spr_enemy_idle/spr_enemy_idle.yy",},},
     {"id":{"name":"spr_enemy_jump","path":"sprites/spr_enemy_jump/spr_enemy_jump.yy",},},
@@ -61,6 +65,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
