@@ -46,7 +46,6 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"obj_astronaut_idle","path":"sprites/obj_astronaut_idle/obj_astronaut_idle.yy",},},
-    {"id":{"name":"spr_astronaut_idle","path":"sprites/spr_astronaut_idle/spr_astronaut_idle.yy",},},
     {"id":{"name":"spr_astronaut_walk","path":"sprites/spr_astronaut_walk/spr_astronaut_walk.yy",},},
     {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},},
     {"id":{"name":"spr_enemy_idle","path":"sprites/spr_enemy_idle/spr_enemy_idle.yy",},},
